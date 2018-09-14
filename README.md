@@ -1,0 +1,2 @@
+# Career-Recommendation-System
+In this project, we propose to design a web application which, based on user’sprofilecapturesthe profile  information  of  working  professionals  from  platforms  like  LinkedInand  analyze the gathered data by  comparing  with  user’s  aforementioned  influential  factors. The  result  of  this analysis provides the user with a numberofsuitable career choices supported by statistics about number of people taking similar career path and opportunity to connect with them,which makes him well equipped to take the career decision.
